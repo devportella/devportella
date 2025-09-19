@@ -1,6 +1,6 @@
 # Hi, I’m Matteo Portella (aka DevPortella) 👋
 
-- Aspiring Backend Developer focused on **C# and .NET**   
+- Backend Developer focused on **C# and .NET**   
 - Building projects to sharpen my skills and grow my portfolio   
 - Sharing my journey from first projects to professional developer   
 
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Tech Stack (in progress) 
+## 🛠️ Tech Stack (in progress) 
 - C# / .NET  
 - Git & GitHub  
 - SQL
@@ -21,6 +21,6 @@
 
 ---
 
-## Let’s connect!
+## 🤝 Let’s connect!
 - [LinkedIn](https://www.linkedin.com/in/devportella/)  
 - [GitHub Repositories](https://github.com/devportella)

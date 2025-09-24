@@ -1,0 +1,14 @@
+C:\DevPortella\Balta\BaltaTestes\bin\Debug\net8.0\BaltaTestes.exe
+C:\DevPortella\Balta\BaltaTestes\bin\Debug\net8.0\BaltaTestes.deps.json
+C:\DevPortella\Balta\BaltaTestes\bin\Debug\net8.0\BaltaTestes.runtimeconfig.json
+C:\DevPortella\Balta\BaltaTestes\bin\Debug\net8.0\BaltaTestes.dll
+C:\DevPortella\Balta\BaltaTestes\bin\Debug\net8.0\BaltaTestes.pdb
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.AssemblyInfoInputs.cache
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.AssemblyInfo.cs
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.csproj.CoreCompileInputs.cache
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.dll
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\refint\BaltaTestes.dll
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.pdb
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\BaltaTestes.genruntimeconfig.cache
+C:\DevPortella\Balta\BaltaTestes\obj\Debug\net8.0\ref\BaltaTestes.dll

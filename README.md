@@ -8,7 +8,7 @@
 
 ## 📂 Projects 
 - **Console Calculator (C#)** – practicing fundamentals, Git workflow, and clean commits  
-- **Cronometer** – applying object-oriented programming concepts  
+- **Stopwatch** – practicing user input parsing, loops, and time control in console apps  
 - **Text Editor** – exploring file handling and user interaction  
 
 ---
